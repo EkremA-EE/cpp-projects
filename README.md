@@ -1,6 +1,5 @@
-# My C++ Learning Journey 
-
-This repository tracks my progress as a **2nd year Electrical Engineering student** 
+# Software projects and exercises written in C++ during my Electrical Engineering studies. 
+ 
 
 ###  Projects & Exercises
 - **[Factorial Calculator](./factorial_calculator.cpp):** A robust implementation using `long long` for large results and defensive input validation to handle non-natural numbers.
