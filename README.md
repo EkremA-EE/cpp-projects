@@ -1,6 +1,6 @@
 # My C++ Learning Journey 
 
-This repository tracks my progress as a **2st year Electrical Engineering student** 
+This repository tracks my progress as a **2nd year Electrical Engineering student** 
 
 ###  Projects & Exercises
 - **[Factorial Calculator](./factorial_calculator.cpp):** A robust implementation using `long long` for large results and defensive input validation to handle non-natural numbers.
