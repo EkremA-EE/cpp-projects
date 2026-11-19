@@ -7,4 +7,4 @@
 
 ###  Tech Stack
 - **Language:** C++
-- **Focus:** Memory Management, Pointers, Structs, and Embedded Logic.
+- **Focus:** Memory Management, Pointers, Structs.
